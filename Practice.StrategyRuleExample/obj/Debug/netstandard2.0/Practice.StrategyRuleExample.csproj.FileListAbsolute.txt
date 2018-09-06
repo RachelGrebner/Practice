@@ -1,0 +1,9 @@
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\bin\Debug\netstandard2.0\Practice.StrategyRuleExample.deps.json
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\bin\Debug\netstandard2.0\Practice.StrategyRuleExample.dll
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\bin\Debug\netstandard2.0\Practice.StrategyRuleExample.pdb
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\obj\Debug\netstandard2.0\Practice.StrategyRuleExample.csprojAssemblyReference.cache
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\obj\Debug\netstandard2.0\Practice.StrategyRuleExample.csproj.CoreCompileInputs.cache
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\obj\Debug\netstandard2.0\Practice.StrategyRuleExample.AssemblyInfoInputs.cache
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\obj\Debug\netstandard2.0\Practice.StrategyRuleExample.AssemblyInfo.cs
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\obj\Debug\netstandard2.0\Practice.StrategyRuleExample.dll
+C:\Users\19182\Documents\Visual Studio 2017\Projects\Practice\Practice.StrategyRuleExample\obj\Debug\netstandard2.0\Practice.StrategyRuleExample.pdb
